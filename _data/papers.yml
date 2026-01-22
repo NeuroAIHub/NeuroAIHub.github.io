@@ -1,0 +1,18 @@
+# _data/papers.yml
+- title: "A Self-Evolving Agent for Neuroscience Research"
+  authors: "San Zhang, Si Li"
+  venue: "Nature Machine Intelligence"
+  year: 2026
+  url: "https://arxiv.org/abs/xxxx"
+
+- title: "Brain-inspired Learning Rules"
+  authors: "Wang Wu, San Zhang"
+  venue: "NeurIPS"
+  year: 2025
+  url: "https://arxiv.org/abs/yyyy"
+
+- title: "Your Next Great Paper"
+  authors: "Your Name, Lab Mates"
+  venue: "ICLR"
+  year: 2024
+  url: "#"

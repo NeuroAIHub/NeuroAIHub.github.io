@@ -1,18 +1,6 @@
 title: NeuroAIHub
 description: Focusing on the intersection of Neuroscience and AI.
 url: "https://NeuroAIHub.github.io"
-
-# 1. 这里指定主题
 theme: jekyll-theme-minimal
 
-# 2. 插件列表 (只放功能插件，不要放主题)
-plugins:
-  - jekyll-scholar
-
-# 3. Scholar 插件配置
-scholar:
-  style: apa
-  source: ./_bibliography
-  bibliography: papers.bib
-  sort_by: year, month
-  order: descending
+# 注意：这里不再需要 plugins 列表了，因为 minimal 主题是原生的
