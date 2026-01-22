@@ -4,15 +4,21 @@
   venue: "Nature Machine Intelligence"
   year: 2026
   url: "https://arxiv.org/abs/xxxx"
+  tldr: "We developed an AI agent that autonomously designs and executes neuroscience experiments, achieving 3x faster discovery cycles."
+  img: "/assets/img/papers/self-evolving-agent.png"
 
 - title: "Brain-inspired Learning Rules"
   authors: "Wang Wu, San Zhang"
   venue: "NeurIPS"
   year: 2025
   url: "https://arxiv.org/abs/yyyy"
+  tldr: "Novel learning algorithms mimicking synaptic plasticity that improve training efficiency by 40% on spiking neural networks."
+  img: "/assets/img/papers/brain-learning.png"
 
 - title: "Your Next Great Paper"
   authors: "Your Name, Lab Mates"
   venue: "ICLR"
   year: 2024
   url: "#"
+  tldr: "A brief summary of your key findings and contributions."
+  img: "/assets/img/papers/placeholder.png"
