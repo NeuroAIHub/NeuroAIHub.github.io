@@ -1,0 +1,23 @@
+- title: "Introduction to NeuroAI: Bridging Neuroscience and Artificial Intelligence"
+  author: "San Zhang"
+  date: "2025-01-15"
+  excerpt: "Exploring the fascinating intersection of neuroscience and AI, and how these fields can benefit each other."
+  link: "https://example.com/blog/intro-neuroai"
+
+- title: "Recent Advances in Spiking Neural Networks"
+  author: "Si Li"
+  date: "2025-01-10"
+  excerpt: "A deep dive into the latest developments in spiking neural networks and their applications."
+  link: "https://example.com/blog/spiking-nn"
+
+- title: "Brain-Computer Interfaces: Current State and Future Directions"
+  author: "Wang Wu"
+  date: "2025-01-05"
+  excerpt: "An overview of BCI technology, its current applications, and what we can expect in the future."
+  link: "https://example.com/blog/bci-future"
+
+- title: "Generative Models for Neuroscience Research"
+  author: "San Zhang"
+  date: "2024-12-28"
+  excerpt: "How generative AI models are revolutionizing neuroscience research and data analysis."
+  link: "https://example.com/blog/generative-neuro"
