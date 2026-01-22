@@ -1,0 +1,42 @@
+# NeuroAIHub Laboratory Homepage
+
+title: NeuroAIHub
+description: Focusing on the intersection of Neuroscience and AI.
+url: "https://NeuroAIHub.github.io"
+baseurl: ""
+theme: jekyll-theme-minimal  # 作为一个基础兜底，实际我们会用自定义 CSS
+
+# Build settings
+markdown: kramdown
+
+# 启用 jekyll-scholar 插件来处理 BibTeX
+plugins:
+  - jekyll-scholar
+
+scholar:
+  style: apa
+  source: ./_bibliography
+  bibliography: papers.bib
+  sort_by: year, month
+  order: descending
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+
+# Front matter defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"

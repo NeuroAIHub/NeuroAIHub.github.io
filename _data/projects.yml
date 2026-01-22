@@ -1,0 +1,56 @@
+# NeuroAIHub Research Projects
+# Active and completed research projects
+
+active:
+  - title: "Neural Network Architecture Design"
+    description: "Developing brain-inspired neural architectures for efficient learning and reasoning."
+    status: "active"
+    image: "/assets/img/projects/architecture.jpg"
+    members:
+      - "Prof. Name"
+      - "Dr. Postdoc Name"
+      - "PhD Student 1"
+    funding: "NSFC Grant 2024-2027"
+    url: "/projects/neural-architecture"
+
+  - title: "Multimodal Learning Systems"
+    description: "Integrating vision, language, and audio for cross-modal understanding."
+    status: "active"
+    image: "/assets/img/projects/multimodal.jpg"
+    members:
+      - "Prof. Name"
+      - "PhD Student 2"
+      - "Master Student 1"
+    funding: "National Key R&D Program"
+    url: "/projects/multimodal"
+
+  - title: "Reinforcement Learning and Decision Making"
+    description: "Computational models of decision making in complex environments."
+    status: "active"
+    image: "/assets/img/projects/rl.jpg"
+    members:
+      - "Dr. Postdoc Name"
+      - "PhD Student 1"
+    funding: "Industry Collaboration"
+    url: "/projects/rl"
+
+completed:
+  - title: "Visual Perception Models"
+    description: "Deep learning models for visual object recognition and scene understanding."
+    status: "completed"
+    image: "/assets/img/projects/vision.jpg"
+    members:
+      - "Prof. Name"
+      - "Alumni Name"
+    year: "2023"
+    url: "/projects/vision"
+
+  - title: "Natural Language Understanding"
+    description: "Transformer-based models for language understanding and generation."
+    status: "completed"
+    image: "/assets/img/projects/nlp.jpg"
+    members:
+      - "Prof. Name"
+      - "PhD Student 2"
+    year: "2022"
+    url: "/projects/nlp"
