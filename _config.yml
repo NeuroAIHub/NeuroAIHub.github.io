@@ -12,7 +12,8 @@ markdown: kramdown
 # 启用 jekyll-scholar 插件来处理 BibTeX
 plugins:
   - jekyll-scholar
-
+  - jekyll-theme-minimal
+  
 scholar:
   style: apa
   source: ./_bibliography
