@@ -1,20 +1,18 @@
-- name: "San Zhang (张三)"
-  role: "Principal Investigator"
-  group: "PI"
-  image: "/assets/img/zhangsan.jpg"
-  website: "https://zhangsan.com"
-  bio: "Focusing on Brain-Computer Interface and AI Agents."
-
-- name: "Si Li (李四)"
-  role: "Postdoc Researcher"
-  group: "Postdoc"
-  image: "/assets/img/lisi.jpg"
-  website: "#"
-  bio: "Researching Spiking Neural Networks."
-
-- name: "Wang Wu (王五)"
-  role: "PhD Student"
-  group: "PhD"
-  image: "/assets/img/wangwu.jpg"
-  website: "#"
-  bio: "Working on generative models for neuroscience."
+- name: San Zhang (张三)
+  role: PhD Student
+  group: PhD
+  image: /assets/img/san_zhang.jpg
+  bio: Focusing on brain-inspired computing and neural network optimization.
+  website: https://scholar.google.com/citations?user=xxx
+- name: Si Li (李四)
+  role: Postdoc Researcher
+  group: Postdoc
+  image: /assets/img/si_li.jpg
+  bio: Research interests include computational neuroscience and deep learning.
+  website: https://example.com
+- name: Wu Wang (王五)
+  role: Principal Investigator
+  group: PI
+  image: /assets/img/wu_wang.jpg
+  bio: Leading research on NeuroAI and brain-computer interfaces.
+  website: https://faculty.example.edu/wuwang

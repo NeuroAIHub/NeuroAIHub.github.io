@@ -1,24 +1,22 @@
-# _data/papers.yml
-- title: "A Self-Evolving Agent for Neuroscience Research"
-  authors: "San Zhang, Si Li"
-  venue: "Nature Machine Intelligence"
-  year: 2026
-  url: "https://arxiv.org/abs/xxxx"
-  tldr: "We developed an AI agent that autonomously designs and executes neuroscience experiments, achieving 3x faster discovery cycles."
-  img: "/assets/img/papers/self-evolving-agent.png"
-
-- title: "Brain-inspired Learning Rules"
-  authors: "Wang Wu, San Zhang"
-  venue: "NeurIPS"
+- title: A Self-Evolving Agent for Neuroscience Research
+  authors: San Zhang, Si Li, Wu Wang
+  venue: Nature Machine Intelligence
   year: 2025
-  url: "https://arxiv.org/abs/yyyy"
-  tldr: "Novel learning algorithms mimicking synaptic plasticity that improve training efficiency by 40% on spiking neural networks."
-  img: "/assets/img/papers/brain-learning.png"
-
-- title: "Your Next Great Paper"
-  authors: "Your Name, Lab Mates"
-  venue: "ICLR"
+  url: https://arxiv.org/abs/xxxx.xxxxx
+  tldr: We developed an AI agent that autonomously designs and executes neuroscience
+    experiments.
+  img: /assets/img/papers/self-evolving-agent.png
+- title: Brain-Inspired Neural Architecture for Efficient Learning
+  authors: Si Li, San Zhang
+  venue: NeurIPS 2025
+  year: 2025
+  url: https://arxiv.org/abs/yyyy.yyyyy
+  tldr: A novel neural network architecture inspired by cortical microcircuits.
+  img: /assets/img/papers/brain-arch.png
+- title: Understanding Visual Cortex with Deep Networks
+  authors: Wu Wang, San Zhang, Si Li
+  venue: ICLR 2024
   year: 2024
-  url: "#"
-  tldr: "A brief summary of your key findings and contributions."
-  img: "/assets/img/papers/placeholder.png"
+  url: https://arxiv.org/abs/zzzz.zzzzz
+  tldr: We show that deep networks can predict neural responses in visual cortex.
+  img: /assets/img/papers/visual-cortex.png

@@ -23,11 +23,10 @@ title: Home
 
     <h2 id="news">Recent News</h2>
     <ul>
-        <li><strong>January 2025:</strong> Our paper on brain-inspired neural architectures was accepted at Nature Machine Intelligence!</li>
-        <li><strong>December 2024:</strong> Two papers accepted at NeurIPS 2024. See you in Vancouver!</li>
-        <li><strong>November 2024:</strong> Congratulations to PhD Student 1 for receiving the Outstanding Research Award!</li>
-        <li><strong>October 2024:</strong> New grant awarded for multimodal learning research.</li>
-        <li><strong>September 2024:</strong> Our lab is looking for motivated students! Check out the openings.</li>
+        <li><strong>Jan 2025:</strong> Our paper "A Self-Evolving Agent for Neuroscience Research" was accepted to Nature Machine Intelligence!</li>
+        <li><strong>Dec 2024:</strong> San Zhang received the Best Paper Award at NeurIPS 2024.</li>
+        <li><strong>Nov 2024:</strong> Welcome new PhD student Liu Liu to our lab!</li>
+        <li><strong>Oct 2024:</strong> We are hiring! Looking for postdoc researchers in NeuroAI.</li>
     </ul>
 
     <h2 id="highlights">Research Highlights</h2>
