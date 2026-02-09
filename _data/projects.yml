@@ -5,10 +5,7 @@ active:
   image: /assets/img/projects/neural-arch.jpg
   members:
   - Prof. Wu Wang
-  - Dr. Si Li
   - San Zhang
-  funding: NSFC Grant 2024-2027
-  url: https://github.com/lab/neural-arch
 - title: AI for Neuroscience Discovery
   description: Building AI systems that can autonomously design and analyze neuroscience
     experiments.
@@ -16,8 +13,6 @@ active:
   members:
   - Prof. Wu Wang
   - San Zhang
-  funding: National Key R&D Program
-  url: https://github.com/lab/ai-neuro
 completed:
 - title: Visual Perception Models
   description: Deep learning models for visual object recognition and scene understanding.
@@ -25,5 +20,4 @@ completed:
   members:
   - Prof. Wu Wang
   - Alumni Name
-  url: https://github.com/lab/visual
   year: '2023'

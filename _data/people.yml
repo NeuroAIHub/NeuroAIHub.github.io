@@ -3,16 +3,18 @@
   group: PhD
   image: /assets/img/san_zhang.jpg
   bio: Focusing on brain-inspired computing and neural network optimization.
+  email: sanzhang@example.edu
   website: https://scholar.google.com/citations?user=xxx
-- name: Si Li (李四)
-  role: Postdoc Researcher
-  group: Postdoc
-  image: /assets/img/si_li.jpg
-  bio: Research interests include computational neuroscience and deep learning.
-  website: https://example.com
 - name: Wu Wang (王五)
   role: Principal Investigator
   group: PI
   image: /assets/img/wu_wang.jpg
   bio: Leading research on NeuroAI and brain-computer interfaces.
+  email: wuwang@example.edu
   website: https://faculty.example.edu/wuwang
+- name: Liu Zhao (赵六)
+  role: Research Intern
+  group: Intern
+  image: /assets/img/liu_zhao.jpg
+  bio: Undergraduate student working on neural network visualization.
+  website: '#'
